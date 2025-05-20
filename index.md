@@ -3,7 +3,7 @@ layout: default
 title: Welcome
 ---
 
-# Hi, I am Jasper Wang 👋
+# Hi, I am Jiyong (Jasper) Wang 👋
 
 I am an AI research focusing on medical vision language model.
 
