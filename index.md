@@ -16,4 +16,11 @@ I am an AI research focusing on medical vision language model.
 6.	Wang, J., Xia, Y., Wang, J., & Feng, D. D. (2012). Variational Bayes Inference Based Segmentation of Heterogeneous Lymphoma Volumes in Dual-Modality PET-CT Images. International Conference on Digital Image Computing Techniques and Applications (pp.274-278). IEEE.
 7.	Wang, J., Feng, D. D., & Xia, Y. (2010). Automated Detection of the Occurrence and Changes of Hot-Spots in Intro-subject FDG-PET Images from Combined PET-CT Scanners. International Conference on Digital Image Computing: Techniques and Applications (pp.63-68). IEEE.
 
+## Part of Granted Patents
+1. Methods and systems for identifying spine or bone regions in computed tomography image sequence, US10181191B2.
+2. Systems and methods for detecting region of interset in image, US11694086B2.
+3. System and method for computer aided diagnosis, US10467757B2.
+4. Systems and methods for image search, US10853409B2.
+
+
 
