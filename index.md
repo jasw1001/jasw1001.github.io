@@ -4,7 +4,8 @@ title: Welcome
 ---
 
 # Hi, I am Jiyong (Jasper) Wang 👋
-
+E-mail: jy.wang@ieee.org
+WECHAT ID: JASPERWEIXIN
 I am an AI research focusing on medical vision language model.
 
 ## Publication
